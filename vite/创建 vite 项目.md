@@ -12,7 +12,7 @@ $ npm init vite@latest
 
 根据提示操作，创建一个 vite + react + TS 的项目如下所示：
 
-![image-20210726233550915](D:\code\github\Blog\vite\imgs\image-20210726233550915.png)
+![image-20210726233550915](https://github.com/ILoveSilence/Blog/blob/main/vite/imgs/image-20210726233550915.png)
 
 根据提示，运行相关指令：
 
@@ -22,9 +22,9 @@ $ npm install
 $ npm run dev
 ```
 
-![image-20210726234139089](D:\code\github\Blog\vite\imgs\image-20210726234139089.png)
+![image-20210726234139089](https://github.com/ILoveSilence/Blog/blob/main/vite/imgs/image-20210726234139089.png)
 
 浏览器访问 localhost:3000，查看项目页面如下：
 
-![image-20210726234223293](D:\code\github\Blog\vite\imgs\image-20210726234223293.png)
+![image-20210726234223293](https://github.com/ILoveSilence/Blog/blob/main/vite/imgs/image-20210726234223293.png)
 
