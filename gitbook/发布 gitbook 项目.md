@@ -24,7 +24,28 @@
 
 有一些模板供选择，这里我们跳过，直接点击 Get started 按钮。
 
-**发布项目**
+**发布书籍**
 
 在上一篇文章 xxx 中我们已经构建好了一个 gitbook 项目，现在来看我们要怎么把这个项目进行发布
 
+与 github 进行文件同步
+
+![image-20211024215148286](D:\code\github\Blog\gitbook\image-20211024215148286.png)
+
+![image-20211024215206065](D:\code\github\Blog\gitbook\image-20211024215206065.png)
+
+![image-20211024215243272](D:\code\github\Blog\gitbook\image-20211024215243272.png)
+
+![image-20211024215419231](D:\code\github\Blog\gitbook\image-20211024215419231.png)
+
+![image-20211024215517337](D:\code\github\Blog\gitbook\image-20211024215517337.png)
+
+![image-20211024215646142](D:\code\github\Blog\gitbook\image-20211024215646142.png)
+
+![image-20211024215703415](D:\code\github\Blog\gitbook\image-20211024215703415.png)
+
+点击 Synchronize，就可以看到相关的文件被同步过来了。那么以后只要更改 github 仓库的项目，gitbook 就会自动同步了。
+
+
+
+（用动图替换）
