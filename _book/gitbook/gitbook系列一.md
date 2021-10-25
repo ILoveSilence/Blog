@@ -72,3 +72,7 @@ README.md 文件是用来
 
 
 
+**参考**
+
+[gitbook 文档](https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md)
+
