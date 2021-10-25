@@ -51,29 +51,3 @@ path: C:\Program Files\nodejs
 
 
 
-
-
-参考文档：
-
-https://blog.csdn.net/zheng18237111686/article/details/113878602
-
-https://blog.csdn.net/J080624/article/details/107002294
-
-https://titangene.github.io/article/nvm.html
-
-https://github.com/nvm-sh/nvm#important-notes
-
-https://github.com/coreybutler/nvm-windows
-
-https://segmentfault.com/a/1190000007612011
-
-https://blog.csdn.net/github_35186068/article/details/80518681
-
-https://segmentfault.com/a/1190000007612011
-
-https://blog.csdn.net/J080624/article/details/107002294
-
-
-
-
-
